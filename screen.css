@@ -49,7 +49,7 @@ form {
 }
 /* ===== MODULE STYLES ===== */
 .banner {
-  height: 150px;
+  height: 8.33em; /*150px /@ 18px*/
   background-image: url("http://az616578.vo.msecnd.net/files/2016/03/22/6359421668101358861883460798_6357395695286675631885647454_Dogs_Collage.imgopt1000x70.jpg");
   background-size: cover;
 }
