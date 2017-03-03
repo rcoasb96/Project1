@@ -55,3 +55,24 @@ form {
 }
 
 /* ===== STATE STYLES ===== */
+/* 580 @ 18px */
+@media screen and (min-width: 550px){
+  p, li {
+  padding-left: 4.888em; /* 4 gridlines*/
+  padding-right: 4.888em; 
+  }
+}
+
+@media screen and (min-width: 720px){
+  p, li {
+  padding-left: 7.332em; /* 6 gridlines*/
+  padding-right: 7.332em; 
+  }
+}
+  
+@media screen and (min-width: 970px){
+  p, li {
+  padding-left: 12.22em; /* 10 gridlines*/
+  padding-right: 12.22em; 
+  }
+}
