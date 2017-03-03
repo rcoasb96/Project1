@@ -17,12 +17,12 @@ html {
   font-size: 1.125em; /* 18px */
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   line-height: 1.222em; /* 22px = 1 gridline*/
-  background-color: #ddaaaa;
+  background-color: #225ea8;
   text-align: center;
 }
 
 h1 {
-  color: #a34747;
+  color: #ffffcc;
   font-size: 3.161em; /* 56.903px */
   line-height: 1.293em; /*44px @ 56.903px */
 }
@@ -30,15 +30,14 @@ h1 {
 h2 {
   font-size: 1.778em; /* 32.004px */
   line-height: 1.454em; /* 22px @ 32.004px */
-  color: #6d0000;
+  color: #ffffcc;
   padding: 1.222em;
 }
 
 p, li {
-  color: #A10000;
+  color: #a1dab4;
   padding: 0.611em; /* 11px = half gridline*/
 }
-
 
 /* ===== LAYOUT STYLES ===== */
 label {
