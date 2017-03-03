@@ -18,15 +18,7 @@ html {
   font-family: "Century Gothic", CenturyGothic, AppleGothic, sans-serif;
   line-height: 1.222em; /* 22px = 1 gridline*/
   background-color: #ddaaaa;
-  padding: 1.222em;
-}
-
-header {
-  background-image: url("http://az616578.vo.msecnd.net/files/2016/03/22/6359421668101358861883460798_6357395695286675631885647454_Dogs_Collage.imgopt1000x70.jpg");
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  background-repeat: no-repeat;
+  text-align: center;
 }
 
 h1 {
@@ -44,14 +36,23 @@ h2 {
 
 p, li {
   color: #A10000;
-  padding-bottom: 0.611em; /* 11px = half gridline*/
-  padding-top: 0.611em;
+  padding: 0.611em; /* 11px = half gridline*/
 }
 
 
 /* ===== LAYOUT STYLES ===== */
 label {
   display: block;
+}
+
+form {
+  text-align: center;
+}
+/* ===== MODULE STYLES ===== */
+.banner {
+  height: 150px;
+  background-image: url("http://az616578.vo.msecnd.net/files/2016/03/22/6359421668101358861883460798_6357395695286675631885647454_Dogs_Collage.imgopt1000x70.jpg");
+  background-size: cover;
 }
 
 /* ===== STATE STYLES ===== */
